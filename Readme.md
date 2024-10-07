@@ -1,6 +1,3 @@
-Certainly! Below is the README file for your `CrowdfundingPlatform` smart contract:
-
----
 
 # Crowdfunding Platform Smart Contract
 
