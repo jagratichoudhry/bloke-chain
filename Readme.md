@@ -1,4 +1,5 @@
----
+
+![jagrati_ss](https://github.com/user-attachments/assets/fb0d03ac-bc24-4a6b-94d1-99e1dc8a753e)
 
 # Crowdfunding Platform Smart Contract
 
