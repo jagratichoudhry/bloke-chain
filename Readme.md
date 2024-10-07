@@ -1,6 +1,7 @@
 
-# Crowdfunding Platform Smart Contract
+[jagrati_ss](https://github.com/user-attachments/assets/275e28bc-e7b5-46de-9c02-e8b1f131985e)
 
+# Crowdfunding Platform Smart Contract!
 ## Vision
 
 The Crowdfunding Platform project aims to create a decentralized way for individuals and organizations to raise funds for their projects. By leveraging blockchain technology, this platform ensures that crowdfunding is transparent, secure, and immutable, allowing creators to raise funds while providing contributors with assurance that their contributions are being properly tracked.
