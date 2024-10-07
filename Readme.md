@@ -1,5 +1,6 @@
+![image](https://github.com/user-attachments/assets/58b26e62-d3a5-4c9a-8c97-cc4f06a6e230)
 
-[jagrati_ss](https://github.com/user-attachments/assets/275e28bc-e7b5-46de-9c02-e8b1f131985e)
+
 
 # Crowdfunding Platform Smart Contract!
 ## Vision
