@@ -1,5 +1,3 @@
-Certainly! Below is the README file for your `CrowdfundingPlatform` smart contract:
-
 ---
 
 # Crowdfunding Platform Smart Contract
@@ -50,6 +48,3 @@ The Crowdfunding Platform project aims to create a decentralized way for individ
 
 We welcome contributions! If you have suggestions for improving the Crowdfunding Platform or want to add new features, feel free to open an issue or submit a pull request.
 
----
-
-Feel free to modify and expand the README as your project evolves and new features are added!
